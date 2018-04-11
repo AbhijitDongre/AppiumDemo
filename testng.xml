@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="test Suite" preserve-order="true">
+
+
+<test name="InitializeTest" >
+    <classes>
+         <class name="VM.Login"></class> 
+          
+    </classes>
+</test>
+
+</suite>
+
